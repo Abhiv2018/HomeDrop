@@ -1,0 +1,21 @@
+{
+  "short_name": "HomeDrop",
+  "name": "HomeDrop",
+  "icons": [
+    {
+      "src": "images/here1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/here1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://abhiv2018.github.io/77_Properties/index",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/maps/",
+  "theme_color": "#3367D6"
+}
